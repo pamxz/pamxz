@@ -15,8 +15,8 @@ My journey blends cloud platforms (Azure), system administration and client-focu
 Python Bash PowerShell
 
 ### Connect with me
-#### Linkedin: 
-#### E-mail:
+#### Linkedin: www.linkedin.com/in/pamilerin-odumosu-0832672b8
+#### E-mail: odumosu.opef@gmail.com
 
 
 
